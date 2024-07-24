@@ -10,6 +10,8 @@ For this project, I developed a comprehensive digital solution for Venus Supplie
 
 These integrated digital solutions have significantly improved operational efficiency, enhanced client satisfaction, and bolstered Venus Supplies & Constructions' overall service delivery.
 
+Note: Code not shared due to agreement with client.
+
 <img src="./images/venus1.png" alt="venus1">
 <img src="./images/venus6.jpeg" alt="venus6">
 <img src="./images/venus5.png" alt="venus5">
